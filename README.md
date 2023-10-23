@@ -6,7 +6,8 @@
 
 
 ## Project Overview
-
+This project requires the use Classification Model to generate insights for a given Agency.
+This agency provides all sorts of social support in the different industries, mostly volunteer work. In a bid to increase their profits for the next financial year, their have been looking through different datasets that will enable them make a choice of industriy investment.
 
 ## Business Understanding
 <img src="billionaire.jpg" align="left" width="350px" height="220px" alt="Idea" />
