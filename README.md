@@ -54,9 +54,6 @@ The dataset represented has the following data columns as some of the header cat
 3. Model Fitting
 4. Model Evaluation
 
-## Evaluation
-
-
 ## Recommendation
 #### Findings
 1. From The age distribution analysis, Most Billionaires in the world lie in the age group bracket of 50 -60 years
@@ -65,9 +62,10 @@ The dataset represented has the following data columns as some of the header cat
 4. The major sources of wealth include: Investments, Real Estate, Software, Pharmaceuticals
 5. On the question on whether Most billionaire acquired their wealth themselves or Inherited, we have seen that most of them have inherited 
 
+We are able to use the prediction model to provide insights into what variables are likely to affect the industry wealth distributuin and whether or not the choice of industry affect a persons ability to become a billionaire
 
 #### Recommendations
-To the Research Agency, I would recommend investing in the Finance & Investments, Technolgy industries, as it shows potential of growing, not only for the younger generation but also the aging.
+To the Research Agency, I would recommend investing in the Finance & Investments, Technology industries, as it shows potential of growing, not only for the younger generation but also the aging.
 Also, 
 
 
