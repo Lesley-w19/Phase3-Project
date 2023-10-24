@@ -49,12 +49,31 @@ The dataset represented has the following data columns as some of the header cat
 
 
 ## Modelling
+1. Perform a Train-Test Split
+2. Preprocess Data
+3. Model Fitting
+4. Model Evaluation
 
 ## Evaluation
 
+
 ## Recommendation
+#### Findings
+1. From The age distribution analysis, Most Billionaires in the world lie in the age group bracket of 50 -60 years
+2. The top five countries of citizenship for most billionaires include : United States, China, India, Germany, Russia
+3. The top industry with most number of billionaires in the world are: Finance and Investments, Manufacturing, Technology, Fashion & Retail, Food & Beverage
+4. The major sources of wealth include: Investments, Real Estate, Software, Pharmaceuticals
+5. On the question on whether Most billionaire acquired their wealth themselves or Inherited, we have seen that most of them have inherited 
+
+
+#### Recommendations
+To the Research Agency, I would recommend investing in the Finance & Investments, Technolgy industries, as it shows potential of growing, not only for the younger generation but also the aging.
+Also, 
+
 
 ## Conclusions
+From the project above, we are able to see that the industry with a high number of wealth distributed is the Finance & Investments industry. Hence we are able to conclude that, based on the wealth age distribution, wealth is accumulated over the years, having best invested in the right industry.
 
+The various logistic modelling, present an almost perfect accuracy score based on the variables indicated. The technologies used for this project include: Data Preparation, Exploratory Data Analysis methods, Data Modelling
 
 
