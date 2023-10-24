@@ -47,10 +47,18 @@ The dataset represented has the following data columns as some of the header cat
 
 ### Visualization
 This section shows the visual representation of billionaire information analysed.
+Some of the information represented include:
+1. Top Billionaire information
 ![Alt text](images/image-2.png)
+
+2. Top Industries
 ![Alt text](images/image.png)
+
+3. Industry Information with wealth
 ![Alt text](images/image-1.png)
 
+4. Billionaire age distribution
+![Alt text](images/image-3.png)
 
 ## Modelling
 1. Perform a Train-Test Split
