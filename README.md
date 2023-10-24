@@ -10,7 +10,7 @@ This project requires the use Classification Model to generate insights for a gi
 This agency provides all sorts of social support in the different industries, mostly volunteer work. In a bid to increase their profits for the next financial year, their have been looking through different datasets that will enable them make a choice of industriy investment.
 
 ## Business Understanding
-<img src="billionaire.jpg" align="left" width="350px" height="220px" alt="Idea" />
+<img src="images/billionaire.jpg" align="left" width="350px" height="220px" alt="Idea" />
 
 ### Stakeholder Audience
 Our Stakeholder are Soar High Research Agency,  a non-governmental organization that deals with Social Development. They are looking for an industry to invest in that will yield profit that will be able to fund their various Activities (eg. school sponsorships). Based on their source question, we are required to provide insights on the wealth distribution status and profitable industries they are to venture in. Also, as the kind of industries they are able to encourage their students to take.
@@ -28,7 +28,7 @@ The objectives of this project based on the dataset chosen is to find out:
 ## Data Understanding
 For this project, we will use the Billionaires Statistics dataset under the file path `data\...` This folder contains historical data of billionaire information captured in a northwestern country, which we will modify for the purpose of our analysis.
 
-<img src="billionaire2.jpeg" align="left" width="150px" height="100px" alt="Method" />
+<img src="images/billionaire2.jpeg" align="left" width="150px" height="100px" alt="Method" />
 
 The data folder includes the following file:
 1. `Billionaires Statistics Dataset.csv` - provides the billionaire dataset which will be used for our analysis
@@ -46,6 +46,10 @@ The dataset represented has the following data columns as some of the header cat
 `countryOfCitizenship`: The country of citizenship of the billionaire.
 
 ### Visualization
+This section shows the visual representation of billionaire information analysed.
+![Alt text](images/image-2.png)
+![Alt text](images/image.png)
+![Alt text](images/image-1.png)
 
 
 ## Modelling
